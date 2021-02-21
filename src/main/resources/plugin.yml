@@ -1,0 +1,6 @@
+name: AutoAnnouncer
+version: ${project.version}
+main: com.bobby29831.pldev.AutoAnnouncer
+api-version: 1.16
+authors: [ bobby29831 ]
+description: AutoAnnouncer plugin created for Jakedude's project
